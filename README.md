@@ -4,6 +4,8 @@
 This project analyzes call centre operations and customer data using Microsoft Excel.  
 I built an interactive dashboard to track representative performance, revenue, call trends, and customer satisfaction.
 
+<img width="1211" height="676" alt="Screenshot 2026-02-24 at 3 23 43 PM" src="https://github.com/user-attachments/assets/d9a73cad-5247-4417-a2b7-317600660117" />
+
 ## 🗂 Dataset
 Two related tables connected using **Customer ID**:
 - Call Centre Data (calls, duration, revenue, ratings, representative)
