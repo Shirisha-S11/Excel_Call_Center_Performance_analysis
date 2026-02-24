@@ -1,1 +1,42 @@
-# Excel_Call_Center_Performance_analysis
+# 📊 Call Centre Performance Dashboard (Excel)
+
+## 📌 Project Overview
+This project analyzes call centre operations and customer data using Microsoft Excel.  
+I built an interactive dashboard to track representative performance, revenue, call trends, and customer satisfaction.
+
+## 🗂 Dataset
+Two related tables connected using **Customer ID**:
+- Call Centre Data (calls, duration, revenue, ratings, representative)
+- Customer Data (gender, age, city)
+
+A Data Model relationship was created to enable demographic and revenue analysis.
+
+## 📊 Key KPIs
+- Total Calls
+- Total Revenue
+- Total Call Duration
+- Average Satisfaction Rating
+- 5-Star Call %
+- Revenue by City
+- Revenue by Representative
+
+## 📈 Dashboard Features
+- Monthly Call Trend (Line Chart)
+- Representative Performance (Bar Chart)
+- Gender-Based Analysis (Stacked Chart)
+- Rating Comparison (Column Chart)
+- Revenue by City Analysis
+- Representative Slicer (Interactive Filter)
+
+## 🧠 Business Insights
+- Identified top revenue-generating representatives
+- Compared customer satisfaction across agents
+- Analyzed monthly demand trends
+- Evaluated revenue contribution by city and gender
+
+## 🛠 Skills Demonstrated
+Excel Data Model | Pivot Tables | KPI Development | Data Aggregation | Dashboard Design | Business Analysis
+
+---
+
+📌 Tools Used: Microsoft Excel (Data Model, Pivot Tables, Slicers, Charts)
